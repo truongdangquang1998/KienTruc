@@ -1,6 +1,0 @@
-D:\IUH\KI6\KienTrucVaThietKePhanMem\DoiBong\DoiBong\BLL\bin\Debug\BLL.dll
-D:\IUH\KI6\KienTrucVaThietKePhanMem\DoiBong\DoiBong\BLL\bin\Debug\BLL.pdb
-D:\IUH\KI6\KienTrucVaThietKePhanMem\DoiBong\DoiBong\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
-D:\IUH\KI6\KienTrucVaThietKePhanMem\DoiBong\DoiBong\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-D:\IUH\KI6\KienTrucVaThietKePhanMem\DoiBong\DoiBong\BLL\obj\Debug\BLL.dll
-D:\IUH\KI6\KienTrucVaThietKePhanMem\DoiBong\DoiBong\BLL\obj\Debug\BLL.pdb
